@@ -2,13 +2,13 @@
 
 **Machine Learning & Image Processing** · Computer Science Student
 
-Bandar Lampung, Indonesia · [olansiallagan6@email.com](mailto:olansiallagan6@email.com) · [LinkedIn](linkedin.com/in/olan-siallagan-397a532b0) · [Portfolio](https://portfolio-olan-siallagan.vercel.app)
+Bandar Lampung, Indonesia · [olansiallagan6@email.com](mailto:olansiallagan6@email.com) · [LinkedIn](https://www.linkedin.com/in/olan-siallagan-397a532b0) · [Portfolio](https://portfolio-olan-siallagan.vercel.app/)
 
 ---
 
 ## Summary
 
-Computer science student at **University of Teknokrat Indonesia** focused on machine learning and image processing. I build projects that take a problem from raw data to a working, evaluated model, and I care about clear baselines, honest error analysis, and reproducible code.
+Computer science student at **University of Teknokrat Indonesia** focused on machine learning and image processing. I build projects that take a problem from raw data to a working, evaluated model, and I enjoy turning data into useful solutions with measurable impact.
 
 ## Skills
 
@@ -21,14 +21,14 @@ Computer science student at **University of Teknokrat Indonesia** focused on mac
 
 ## Projects
 
-**[project-one](https://github.com/orgtamfan/project-one)** · PyTorch
-`[One-line description and result, e.g. "Image classifier, 92% accuracy on X, improved from 84% baseline."]`
+**[Bottle Waste Classification](https://github.com/orgtamfan/bottle_waste_classification)** · PyTorch, TensorFlow
+`Image classification project for recyclable waste categories, using transfer learning to build an accurate model for real-world sorting support.`
 
-**[project-two](https://github.com/orgtamfan/project-two)** · OpenCV, FastAPI
-`[One-line description and result.]`
+**[Sentiment Analysis](https://github.com/orgtamfan/sentiment-analysis)** · Python, scikit-learn
+`Text classification model that identifies positive, negative, and neutral sentiment from reviews and comments using NLP techniques.`
 
-**[project-three](https://github.com/orgtamfan/project-three)** · scikit-learn
-`[One-line description and result.]`
+**[Portfolio](https://github.com/orgtamfan/portfolio)** · HTML, CSS
+`Personal portfolio website showcasing my projects, skills, and background in a clean, professional online presence.`
 
 ## Education
 
