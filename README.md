@@ -8,7 +8,7 @@ Bandar Lampung, Indonesia · [olansiallagan6@email.com](mailto:olansiallagan6@em
 
 ## Summary
 
-Computer science student at **University of Teknokrat Indonesia** focused on machine learning and image processing. I build projects that take a problem from raw data to a working, evaluated model, and I enjoy turning data into useful solutions with measurable impact.
+Computer science student at **University of Teknokrat Indonesia** focused on machine learning and image processing. I build projects that take a problem from raw data to a working model, and I enjoy turning data into useful solutions.
 
 ## Skills
 
@@ -21,22 +21,24 @@ Computer science student at **University of Teknokrat Indonesia** focused on mac
 
 ## Projects
 
-**[project-one](https://github.com/orgtamfan/project-one)** · PyTorch
-`[One-line description and result, e.g. "Image classifier, 92% accuracy on X, improved from 84% baseline."]`
+**[Waste Image Classifier](https://github.com/orgtamfan/bottle_waste_classification)** · TensorFlow/Keras, MobileNetV2  
+Classifies images into 11 waste-item categories using transfer learning. Includes a prediction script and a training workflow that saves the best validation-accuracy model.
 
-**[project-two](https://github.com/orgtamfan/project-two)** · OpenCV, FastAPI
-`[One-line description and result.]`
+**[CS2 and VALORANT Sentiment Analysis](https://github.com/orgtamfan/sentiment-analysis)** · scikit-learn, TF-IDF, Naive Bayes, VADER  
+Compares Reddit comment sentiment for CS2 and VALORANT using a three-class Naive Bayes baseline. A recorded run reported 48.3% accuracy for CS2 and 51.2% for VALORANT; the README notes that these results depend on the dataset labels and should not be treated as validated human-annotation accuracy.
 
-**[project-three](https://github.com/orgtamfan/project-three)** · scikit-learn
-`[One-line description and result.]`
+**[YouTube Downloader](https://github.com/orgtamfan/yt_download_with_pytubefix)** · Python, pytubefix, Tkinter, FFmpeg  
+Desktop GUI and command-line tool for downloading audio and video, with batch URL support, quality options, and MP3/AVI/MP4 output.
 
 ## Education
 
 **Bachelor of Computer Science**, University of Teknokrat Indonesia
-`[Expected graduation year]` · `[GPA or relevant coursework, optional]`
+
+## Focus
+
+Applied machine learning, image classification, and practical Python projects.
 
 ## Currently
 
-- Building: `[current project]`
-- Learning: `[e.g. computer vision architectures, MLOps]`
-- Open to: `[e.g. internships or ML engineering roles in computer vision]`
+- Building: A music source-separation project, exploring deep learning models for separating vocals and instruments from mixed audio.
+- Learning: Audio machine learning and source-separation model training.
