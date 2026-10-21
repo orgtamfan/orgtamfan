@@ -2,7 +2,7 @@
 
 **Machine Learning & Image Processing** · Computer Science Student
 
-Bandar Lampung, Indonesia · [your@email.com](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/your-handle) · [Portfolio](https://your-portfolio.example)
+Bandar Lampung, Indonesia · [olansiallagan6@email.com](mailto:olansiallagan6@email.com) · [LinkedIn](linkedin.com/in/olan-siallagan-397a532b0) · [Portfolio](https://portfolio-olan-siallagan.vercel.app)
 
 ---
 
