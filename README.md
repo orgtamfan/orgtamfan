@@ -21,14 +21,14 @@ Computer science student at **University of Teknokrat Indonesia** focused on mac
 
 ## Projects
 
-**[Bottle Waste Classification](https://github.com/orgtamfan/bottle_waste_classification)** · PyTorch, TensorFlow
-`Image classification project for recyclable waste categories, using transfer learning to build an accurate model for real-world sorting support.`
+**[project-one](https://github.com/orgtamfan/project-one)** · PyTorch
+`[One-line description and result, e.g. "Image classifier, 92% accuracy on X, improved from 84% baseline."]`
 
-**[Sentiment Analysis](https://github.com/orgtamfan/sentiment-analysis)** · Python, scikit-learn
-`Text classification model that identifies positive, negative, and neutral sentiment from reviews and comments using NLP techniques.`
+**[project-two](https://github.com/orgtamfan/project-two)** · OpenCV, FastAPI
+`[One-line description and result.]`
 
-**[Portfolio](https://github.com/orgtamfan/portfolio)** · HTML, CSS
-`Personal portfolio website showcasing my projects, skills, and background in a clean, professional online presence.`
+**[project-three](https://github.com/orgtamfan/project-three)** · scikit-learn
+`[One-line description and result.]`
 
 ## Education
 
